@@ -35,13 +35,6 @@ Predicts AAPL stock prices using historical time-series data.
 
 ---
 
-### 🗣️ Speech Recognition & Translator  
-**Tech:** SpeechRecognition, Google Translate API, Streamlit  
-Converts speech to text and translates into multiple languages.  
-[🔗 GitHub](https://github.com/Sathvik33/Speech_Translator)
-
----
-
 ### 🐜 Ant Colony Optimization for Routing  
 **Tech:** ACO Algorithm, Network Simulation  
 Simulates intelligent routing in wireless networks using ACO.  
