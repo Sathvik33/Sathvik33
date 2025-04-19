@@ -17,48 +17,48 @@
 ### 🎬 Movie Recommendation System  
 **Tech:** K-Means, Streamlit  
 Recommends movies based on genre clusters and user preferences.  
-[🔗 GitHub](https://github.com/Sathvik33/movie-recommendation)
+[🔗 GitHub](https://github.com/Sathvik33/Movie_recommendation)
 
 ---
 
-### 🧬 Cancer Prediction App  
+### 🧬 Liver Cancer Prediction App  
 **Tech:** Scikit-Learn, Streamlit  
-Predicts tumor malignancy based on user inputs.  
-[🔗 GitHub](https://github.com/Sathvik33/cancer-prediction-app)
+Predicts liver tumor malignancy based on user inputs.  
+[🔗 GitHub](https://github.com/Sathvik33/Liver-Cancer-Prediction)
 
 ---
 
-### 📈 AAPL Stock Predictor  
-**Tech:** LSTM, TensorFlow  
-Predicts Apple stock prices using time series forecasting.  
-[🔗 GitHub](https://github.com/Sathvik33/aapl-stock-predictor)
+### 📈 Apple Stocks Predictor  
+**Tech:** LSTM, TensorFlow, yFinance  
+Predicts AAPL stock prices using historical time-series data.  
+[🔗 GitHub](https://github.com/Sathvik33/Apple-Stocks-Predictor)
 
 ---
 
 ### 🗣️ Speech Recognition & Translator  
 **Tech:** SpeechRecognition, Google Translate API, Streamlit  
-Converts speech to text and translates it into other languages.  
-[🔗 GitHub](https://github.com/Sathvik33/speech-translator)
+Converts speech to text and translates into multiple languages.  
+[🔗 GitHub](https://github.com/Sathvik33/Speech_Translator)
 
 ---
 
 ### 🐜 Ant Colony Optimization for Routing  
 **Tech:** ACO Algorithm, Network Simulation  
-Implements intelligent routing in wireless networks using ACO.  
-[🔗 GitHub](https://github.com/Sathvik33/aco-routing-optimization)
+Simulates intelligent routing in wireless networks using ACO.  
+[🔗 GitHub](https://github.com/Sathvik33/ACO-wireless-routing)
 
 ---
 
 ### 🧠 Virtual Memory Optimization Challenge  
 **Tech:** OS Concepts, Memory Management, Visualization  
-Simulates memory fragmentation, paging, and segmentation.  
-[🔗 GitHub](https://github.com/Sathvik33/virtual-memory-optimizer)
+Visualizes paging, fragmentation, and memory allocation strategies.  
+[🔗 GitHub](https://github.com/Sathvik33/Virtual-Memory-Optimization)
 
 ---
 
 ## 🧩 More Projects
 
-Check out more of my work on classification, regression, spam filtering, placement prediction, and more here:  
+Explore more of my projects like spam detection, house price prediction, placement probability, rock-paper-scissors game, and password generator:  
 👉 [View all repositories](https://github.com/Sathvik33?tab=repositories)
 
 ---
