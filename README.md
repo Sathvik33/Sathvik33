@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack:
 **Languages:** Python, Java, C++  
-**ML/DL:** Scikit-Learn, TensorFlow, Keras, OpenCV  
+**ML/DL:** PyTroch, Scikit-Learn, TensorFlow, Keras, OpenCV  
 **Web:** Streamlit, HTML, CSS, JS  
 **Tools:** Git, GitHub, VS Code  
 
