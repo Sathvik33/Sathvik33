@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sathvik%20Maru&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Systems%20Builder%20%7C%20CS%20Undergrad&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maru%20Sathvik%20Reddy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Systems%20Builder%20%7C%20CS%20Undergrad&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 </div>
 
@@ -40,7 +40,7 @@ Generative AI   Stable Diffusion · StyleGAN · GPT-style LLMs · Ollama
 Agentic AI      LangChain · LangServe · Multi-Agent Systems · RAG · ChromaDB
 Backend         FastAPI · SQLAlchemy · PostgreSQL · JWT Auth
 Frontend        React · Streamlit · Tailwind CSS · HTML/CSS/JS
-Tools           Git · VS Code · CUDA · Optuna · Docker (learning)
+Tools           Git · VS Code · CUDA · Optuna · Docker
 ```
 
 ---
