@@ -34,13 +34,22 @@ class Sathvik:
 ## 🛠️ Tech Stack
 
 ```
-Languages       Python · Java · C++
-ML / DL         PyTorch · TensorFlow · Scikit-learn · HuggingFace · XGBoost
-Generative AI   Stable Diffusion · StyleGAN · GPT-style LLMs · Ollama
-Agentic AI      LangChain · LangServe · Multi-Agent Systems · RAG · ChromaDB
+Languages       Python · C++
+
+ML / DL         PyTorch · TensorFlow · Scikit-learn · HuggingFace · XGBoost ·
+                Transformers · CNNs · NLP · MLOps
+
+Generative AI   GANs · Stable Diffusion · StyleGAN · GPT-style LLMs · Ollama ·
+                LLaVA · LLaMA3 · Multi-modal AI
+
+Agentic AI      LangChain · LangGraph · LangServe · LangSmith ·
+                Multi-Agent Systems · RAG · ChromaDB · AI Routers
+
 Backend         FastAPI · SQLAlchemy · PostgreSQL · JWT Auth
-Frontend        React · Streamlit · Tailwind CSS · HTML/CSS/JS
-Tools           Git · VS Code · CUDA · Optuna · Docker
+
+Frontend        Streamlit · HTML/CSS/JS
+
+Tools           Git · VS Code · CUDA · Optuna · Docker · Redis
 ```
 
 ---
