@@ -36,7 +36,7 @@ class Sathvik:
 ```
 Languages       Python · C++
 
-ML / DL         PyTorch · TensorFlow · Scikit-learn · HuggingFace · XGBoost ·
+ML / DL         PyTorch · Scikit-learn · HuggingFace · XGBoost ·
                 Transformers · CNNs · NLP · MLOps
 
 Generative AI   GANs · Stable Diffusion · StyleGAN · GPT-style LLMs · Ollama ·
