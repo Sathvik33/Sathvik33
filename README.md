@@ -49,7 +49,7 @@ Backend         FastAPI · SQLAlchemy · PostgreSQL · JWT Auth
 
 Frontend        Streamlit · HTML/CSS/JS
 
-Tools           Git · VS Code · CUDA · Optuna · Docker · Redis
+Tools           Git · VS Code · CUDA · Optuna · Docker · Redis · nginx
 ```
 
 ---
